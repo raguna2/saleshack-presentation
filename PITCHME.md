@@ -7,6 +7,15 @@
 気づけばBP入社してはや2ヶ月が経とうとしています。
 
 ---
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+
+---
 ### 目次
 - 今日話すこと/話さないこと |
 - 新卒で入社した会社について |
