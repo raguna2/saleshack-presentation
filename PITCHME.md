@@ -16,7 +16,18 @@
 @ulend
 
 ---
+@ul[squares]
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+
+---
 ### 目次
+
+@ul[squares]
 - 今日話すこと/話さないこと |
 - 新卒で入社した会社について |
   - どんなことしてた? |
@@ -25,7 +36,7 @@
 - 課題は何かを考えた |
 - 21世紀の人たちはどうやって解決しているのか? |
 - ◯◯◯を使ってxxxを勝手に導入してやろう |
-
+@ulend
 ---
 ### 今日話さないこと
 ◯◯を自動化させてx分でできるようになりました！
