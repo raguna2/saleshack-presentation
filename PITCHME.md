@@ -221,5 +221,3 @@
 ### 以上。参考にしてもらえたら嬉しいです。
 
 ---?image=trello.jpg
-
-# THANK YOU
