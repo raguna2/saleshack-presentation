@@ -1,0 +1,9 @@
+#テーマの設定
+theme : simple
+
+#フットノートの設定
+footnote : "© 2018 くつみ."
+
+
+#スライドのページ数表示の設定
+slide-number: true
